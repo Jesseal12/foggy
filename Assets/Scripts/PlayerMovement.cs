@@ -40,10 +40,10 @@ public class PlayerMovement : MonoBehaviour
 
    void OnCollisionStay2D(Collision2D collision)
    {
-      print("Olemme maassa");
+      //print("Olemme maassa");
       if (collision.gameObject.tag == "Ground")
       {
-         print("Aika Hyppiä");
+         //print("Aika Hyppiä");
          isGrounded = true;
       }
       
