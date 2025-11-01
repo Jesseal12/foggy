@@ -1,0 +1,8 @@
+FOGGY GAME
+
+by team with sakke
+
+
+FOGGY GAME is a game with a lot of fog in it. The game stars ??? on their way through an abandoned factory to find ???, but beware as ??? will be standing in the way.
+
+Like a simple 2D platformer except with a limited field of vision
