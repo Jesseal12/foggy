@@ -1,0 +1,17 @@
+FOGGY GAME
+
+by sakke laitinen, jesse aaltonen, ari punavuori...
+
+
+FOGGY GAME is a game with a lot of fog in it. The game stars ??? on their way through an abandoned factory to find valuable scraps, but beware as mysterious creatures will be standing in the way.
+
+
+GAMEPLAY
+
+Like a simple 2D platformer except with a limited field of vision, the fog prevents you from seeing what's coming in front of you except where there's a Limited range of a light source like torches or lanterns. The player carries a light source.
+
+
+CONTROLS
+
+[] Move
+[] Jump
