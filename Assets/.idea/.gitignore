@@ -1,20 +1,11 @@
-
 ﻿# Default ignored files
 /shelf/
 /workspace.xml
 # Rider ignored files
+/modules.xml
 /contentModel.xml
 /projectSettingsUpdater.xml
-/.idea.foggy.iml
-/modules.xml
-# Default ignored files
-/shelf/
-/workspace.xml
-# Rider ignored files
-/modules.xml
-/.idea.foggy.iml
-/projectSettingsUpdater.xml
-/contentModel.xml
+/.idea.Assets.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files

@@ -15,3 +15,16 @@ CONTROLS
 
 [] Move
 [] Jump
+
+
+ITEMS
+
+Cog: This is the basic colledtible.
+
+Flashlight: Changes field of vision to be a cone in front of the player for a limited time.
+
+Chainsaw: Weapon that kills monsters in front for a limited time.
+
+Battery: Extends flashlight duration.
+
+Fuel canister: Extends chainsaw duration.
